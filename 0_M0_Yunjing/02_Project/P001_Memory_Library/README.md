@@ -10,11 +10,11 @@
 - 当前状态：项目持续规划与分阶段建设；各子项目状态以各自说明为准。
 
 ## 子项目
-- [M91B_Memory_StarMap](02_Subprojects/M91B_Memory_StarMap/README.md)：记忆星图，负责记忆数据的可视化探索与智能交互方案审查。
+- [M91B_Memory_StarMap](02_Subprojects/M91B_Memory_StarMap/README.md)：记忆星图，负责记忆数据的可视化探索与智能交互；技术资料由 M9 维护。
 
 ## 目录约定
 - `01_Planning`：项目总体规划、阶段路线与范围管理。
-- `02_Subprojects`：子项目入口、职责边界及关联文档。
+- `02_Subprojects`：子项目入口、职责边界及关联信息。
 - `03_Review`：项目级阶段审查、跨子项目评估与决策记录。
 
 ## 管理边界
