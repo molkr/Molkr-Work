@@ -13,7 +13,7 @@ P001 摩氪记忆库下的可视化与智能交互子项目。目标是将已整
 ## 职责与资料归属
 - M0 云京：P001 项目管理、跨节点协调、项目级审查和最终决策记录。
 - M9 钪铼：M91B 专业技术研究、架构设计、技术审计和后续实施组织。
-- M9 技术资料统一存放于 [M9 的 M91B 技术项目目录](../../../../../0_M9_Kanglai/Projects/P001_Memory_Library/M91B_Memory_StarMap/README.md)。
+- M9 技术资料统一存放于 [M9 的 M91B 技术项目目录](../../../../../0_M9_Kanglai/02_Projects/P001_Memory_Library/M91B_Memory_StarMap/README.md)。
 - M0 本目录仅保留项目管理入口，不重复保存完整技术资料。
 
 ## 当前状态
